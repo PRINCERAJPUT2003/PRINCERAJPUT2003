@@ -17,7 +17,7 @@ I'm a fourth-year Electrical Engineering student 🎓 from Delhi Technological U
 [![My Awesome Stats](https://github-readme-stats.vercel.app/api?username=PRINCERAJPUT2003&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)](https://git.io/awesome-stats-card)&nbsp;&nbsp;
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PRINCERAJPUT2003&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PRINCERAJPUT2003&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=donut)<br/>
-![.](https://github-contributor-stats.vercel.app/api?username=PRINCERAJPUT2003&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=PRINCERAJPUT2003&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
